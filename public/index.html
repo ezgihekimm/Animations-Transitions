@@ -58,6 +58,29 @@
   <script src="assets/formoid/formoid.min.js"></script>
   <script src="assets/scrollAnimate.min.js"></script>
 
+  <script>
+    window.addEventListener('DOMContentLoaded', (event) => {
+      var $aContainer = document.getElementById("animation-container");
+      var aContainerRect = $aContainer.getBoundingClientRect();
+      var start = aContainerRect.top;
+      var length = aContainerRect.height;
+      scrollAnimate({
+          frames: {
+              path: "frames/",
+              prefix: "frame_",
+              extension: "png",
+              amount: 60,
+              pad: "00"
+          },
+          parent: $aContainer,
+          scroll: {
+              start: start,
+              length: length
+          }
+      });
+    }); 
+  </script>
+
   
   <!-- built files will be auto injected -->
 </body>

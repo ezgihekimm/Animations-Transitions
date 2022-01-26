@@ -4,6 +4,7 @@
     <menu1 />
     <introduction />
     <technicial />
+    <Scroll />
     <usage />
     <resim/>
 
@@ -83,6 +84,7 @@
   import balon from './components/balon.vue'
   import usage from './components/usage.vue'
   import resim from './components/resim.vue'
+  import Scroll from './components/Scroll.vue'
   export default {
     name: 'App',
     components: {
@@ -91,7 +93,8 @@
       technicial,
       balon,
       usage,
-      resim
+      resim,
+      Scroll
 
     }
 
