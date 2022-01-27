@@ -11,7 +11,9 @@
                        <img :src="require('../../public/assets/images1/bubble.png')" alt="">
            
        </div>
-   
+       <div class="div text-center mt-5">
+           <h1 style="font-size:100px;font-family: 'Roboto', sans-serif; color:#C4E5F6">BAU MIND</h1>
+       </div>
 
 
 
