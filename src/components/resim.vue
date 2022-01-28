@@ -29,7 +29,7 @@ TECHNICAL PARTS</h5>
                 <div class="item-img ">
                   <img src="assets/images1/re1.jpg" alt="" title="">
                 </div>
-                <h4 class="card-title ls-1 mbr-fonts-style display-5">Effective Motion Graphics</h4>
+                <h4 class="card-title ls-1 mbr-fonts-style display-5">Aluminium Design</h4>
                 <p class="card-text mbr-fonts-style display-4">Lorem ipsum dolor sit amet, consectetur, adipisicing
                   elit. Reprehenderit rerum reiciendis, voluptatibus eligendi sit suscipit in officii.</p>
 
@@ -42,7 +42,7 @@ TECHNICAL PARTS</h5>
                 <div class="item-img">
                   <img src="assets/images1/re10.jpg" alt="" title="">
                 </div>
-                <h4 class="card-title ls-1 mbr-fonts-style display-5">Creative Conceptions</h4>
+                <h4 class="card-title ls-1 mbr-fonts-style display-5">Battery Unit</h4>
                 <p class="card-text mbr-fonts-style display-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit.
                   Fugit quasi consectetur corrupti, blanditiis. Sit, quam.</p>
 
@@ -55,7 +55,7 @@ TECHNICAL PARTS</h5>
                 <div class="item-img">
                   <img src="assets/images1/re4.jpg" alt="" title="">
                 </div>
-                <h4 class="card-title ls-1 mbr-fonts-style display-5">Shooting &amp; Editing</h4>
+                <h4 class="card-title ls-1 mbr-fonts-style display-5">Lighting Device</h4>
                 <p class="card-text mbr-fonts-style display-4">Lorem, ipsum dolor sit amet, consectetur adipisicing
                   elit. Nobis consectetur eligendi natus in neque provident?</p>
 
@@ -68,7 +68,7 @@ TECHNICAL PARTS</h5>
                 <div class="item-img">
                   <img src="assets/images1/re5.jpg" alt="" title="">
                 </div>
-                <h4 class="card-title ls-1 mbr-fonts-style display-5">Motion Graphics</h4>
+                <h4 class="card-title ls-1 mbr-fonts-style display-5">Color Sensors</h4>
                 <p class="card-text mbr-fonts-style display-4">Lorem ipsum dolor sit amet consectetur adipisicing elit.
                   Veritatis excepturi numquam unde quia quis saepe.</p>
 

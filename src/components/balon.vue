@@ -11,8 +11,8 @@
                        <img :src="require('../../public/assets/images1/bubble.png')" alt="">
            
        </div>
-       <div class="div text-center mt-5">
-           <h1 style="font-size:100px;font-family: 'Roboto', sans-serif; color:#C4E5F6">BAU MIND</h1>
+       <div class="div text-center mt-3">
+           <h1 style="font-size:100px;font-family: 'Roboto', sans-serif; color:#C4E5F6; opacity:50%;">BAUMIND</h1>
        </div>
 
 
@@ -40,7 +40,7 @@
 <style scoped>
 .hero{
     width: 100%;
-    height: 100vh;
+    height: 50vh;
     background-size: cover;
     background-position: center;
     position: relative;
